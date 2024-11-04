@@ -3,7 +3,6 @@ name: Push - Create & Tag Protobuf - Go
 on:
   push:
     branches:
-      - "master"
       - "main"
 
 jobs:
